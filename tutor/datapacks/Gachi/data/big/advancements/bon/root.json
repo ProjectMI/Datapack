@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "crying_obsidian"
+    },
+    "title": {"text":"Cherry Bon Bon"},
+    "description": {"text":"MASN"},
+    "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:oxidized_cut_copper"
+      }
+    }
+  }
+}
