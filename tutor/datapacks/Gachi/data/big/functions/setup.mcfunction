@@ -1,2 +1,0 @@
-say help!
-say vgfgwsd

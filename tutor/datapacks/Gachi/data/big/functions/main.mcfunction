@@ -1,1 +1,0 @@
-execute as BigSTy2 at @s if block ~ ~ ~ #big:damage run effect give @s minecraft:instant_damage 1 0 true
